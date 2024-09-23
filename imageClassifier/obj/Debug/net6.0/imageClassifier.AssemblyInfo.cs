@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imageClassifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbd0190b51eb7946b29951abce0f8ec663cb188")]
 [assembly: System.Reflection.AssemblyProductAttribute("imageClassifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imageClassifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

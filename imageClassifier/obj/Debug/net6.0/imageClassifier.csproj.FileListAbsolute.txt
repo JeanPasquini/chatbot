@@ -28,3 +28,34 @@ C:\Users\pasqu\OneDrive\Documentos\GitHub\chatbot\imageClassifier\obj\Debug\net6
 C:\Users\pasqu\OneDrive\Documentos\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.pdb
 C:\Users\pasqu\OneDrive\Documentos\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.genruntimeconfig.cache
 C:\Users\pasqu\OneDrive\Documentos\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\ref\imageClassifier.dll
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\appsettings.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.staticwebassets.runtime.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.exe
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.deps.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.runtimeconfig.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.dll
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\bin\Debug\net6.0\imageClassifier.pdb
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.AssemblyInfoInputs.cache
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.AssemblyInfo.cs
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.RazorAssemblyInfo.cache
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.RazorAssemblyInfo.cs
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.sourcelink.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets\msbuild.imageClassifier.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets\msbuild.build.imageClassifier.props
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imageClassifier.props
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imageClassifier.props
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\scopedcss\bundle\imageClassifier.styles.css
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\scopedcss\projectbundle\imageClassifier.bundle.scp.css
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.dll
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\refint\imageClassifier.dll
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.pdb
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\imageClassifier.genruntimeconfig.cache
+C:\Users\Jean Pasquini\Documents\GitHub\chatbot\imageClassifier\obj\Debug\net6.0\ref\imageClassifier.dll

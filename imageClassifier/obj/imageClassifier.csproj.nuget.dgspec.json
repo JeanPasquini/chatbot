@@ -1,27 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pasqu\\OneDrive\\Documentos\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj": {}
+    "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pasqu\\OneDrive\\Documentos\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj": {
+    "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pasqu\\OneDrive\\Documentos\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj",
+        "projectUniqueName": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj",
         "projectName": "imageClassifier",
-        "projectPath": "C:\\Users\\pasqu\\OneDrive\\Documentos\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj",
-        "packagesPath": "C:\\Users\\pasqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pasqu\\OneDrive\\Documentos\\GitHub\\chatbot\\imageClassifier\\obj\\",
+        "projectPath": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\imageClassifier\\imageClassifier.csproj",
+        "packagesPath": "C:\\Users\\Jean Pasquini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\imageClassifier\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pasqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jean Pasquini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,6 +61,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -58,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
