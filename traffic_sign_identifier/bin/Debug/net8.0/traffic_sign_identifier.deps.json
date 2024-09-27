@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "traffic_sign_identifier/1.0.0": {
+        "runtime": {
+          "traffic_sign_identifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "traffic_sign_identifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
