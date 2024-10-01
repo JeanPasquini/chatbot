@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("traffic_sign_identifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9502c3528755ced0261da3c69f2decbe4026246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af96af802073147866fc0e7108494bf6e9cd10e")]
 [assembly: System.Reflection.AssemblyProductAttribute("traffic_sign_identifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("traffic_sign_identifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

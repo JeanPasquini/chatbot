@@ -1,31 +1,35 @@
 ﻿@{
-    ViewData["Title"] = "Traffic Sign Identifier";
+    ViewData["Title"] = "Traffic Sign Classifier";
 }
 
-<div class="container">
+<div class="container mt-2">
     <div class="card shadow-lg">
-        <div class="card-header bg-primary text-white text-center">
-            <h3><i class="fas fa-tools"></i> Traffic Sign Identifier</h3>
+        <div class="card-header bg-dark text-light text-center">
+            <h3><i class="fas fa-traffic-light"></i> Traffic Sign Classifier</h3>
         </div>
+
         <div class="card-body">
-            <div id="imagePreview" class="image-preview">
+            <div id="imagePreview" class="image-preview border border-secondary rounded p-3 mb-4 text-center bg-light">
                 <i class="fas fa-image"></i>
             </div>
 
             <form id="imageForm" class="mb-3">
                 <div class="mb-3">
-                    <label for="imageUpload" class="form-label"><i class="fas fa-upload"></i> Selecione uma imagem da ferramenta:</label>
+                    <label for="imageUpload" class="form-label"><i class="fas fa-camera"></i> Upload Traffic Sign Image:</label>
                     <input class="form-control" type="file" id="imageUpload" accept="image/*" required>
                 </div>
-                <button type="submit" class="btn btn-primary w-100"><i class="fas fa-check"></i> Classificar Ferramenta</button>
+                <button type="submit" class="btn btn-primary w-100"><i class="fas fa-sync-alt"></i> Classify Image</button>
             </form>
 
             <div id="resultSection" class="d-none">
-                <h4><i class="fas fa-info-circle"></i> Resultado da Classificação:</h4>
-                <div class="alert alert-info" id="classificationResult">
-                    Aguardando classificação...
+                <h4><i class="fas fa-sign"></i> Classification Result:</h4>
+                <div class="alert alert-info text-center" id="classificationResult">
+                    Waiting for classification...
                 </div>
             </div>
+        </div>
+        <div class="card-footer bg-dark text-light text-center">
+            <small>&copy; 2024 - Jean Pasquini - Driving safely saves lives <i class="fas fa-car-side"></i></small>
         </div>
     </div>
 </div>
