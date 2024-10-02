@@ -1,11 +1,11 @@
 ﻿@{
-    ViewData["Title"] = "Traffic Sign Classifier";
+    ViewData["Title"] = "Placas de Trânsito - Identificador";
 }
 
 <div class="container mt-2">
     <div class="card shadow-lg">
         <div class="card-header bg-dark text-light text-center">
-            <h3><i class="fas fa-traffic-light"></i> Traffic Sign Classifier</h3>
+            <h4></i>Classificador<br/>Placas de Trânsito</h4>
         </div>
 
         <div class="card-body">
@@ -13,23 +13,25 @@
                 <i class="fas fa-image"></i>
             </div>
 
-            <form id="imageForm" class="mb-3">
+            <form id="imageForm" action="/Home/ClassifyImage" method="post" enctype="multipart/form-data">
                 <div class="mb-3">
-                    <label for="imageUpload" class="form-label"><i class="fas fa-camera"></i> Upload Traffic Sign Image:</label>
-                    <input class="form-control" type="file" id="imageUpload" accept="image/*" required>
+                    <label for="imageUpload" class="form-label"><i class="fas fa-camera"></i> Carregue sua imagem:</label>
+                    <input class="form-control" type="file" id="imageUpload" name="imageUpload" accept="image/*" required>
                 </div>
-                <button type="submit" class="btn btn-primary w-100"><i class="fas fa-sync-alt"></i> Classify Image</button>
+                <button type="submit" class="btn btn-primary w-100"><i class="fas fa-sync-alt"></i> Classificar placa...</button>
             </form>
 
-            <div id="resultSection" class="d-none">
-                <h4><i class="fas fa-sign"></i> Classification Result:</h4>
-                <div class="alert alert-info text-center" id="classificationResult">
-                    Waiting for classification...
+            <br>
+
+            <div id="resultSection" class="@(ViewBag.ClassificationResult != null ? "" : "d-none")">
+                <h4><i class="fas fa-sign"></i> Resultado:</h4>
+                <div class="alert alert-info text-center">
+                    <p style="margin: 0; padding: 0;" id="classificationResult">@ViewBag.ClassificationResult</p>
                 </div>
             </div>
         </div>
         <div class="card-footer bg-dark text-light text-center">
-            <small>&copy; 2024 - Jean Pasquini - Driving safely saves lives <i class="fas fa-car-side"></i></small>
+            <small>&copy; 2024 - Jean Pasquini - Dirija com segurança <i class="fas fa-car-side"></i></small>
         </div>
     </div>
 </div>
