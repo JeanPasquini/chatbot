@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\traffic_sign_identifier\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9B4E9D6-7721-4CD3-A832-DDBA5A32DF9A}|traffic_sign_identifier.csproj|c:\\users\\jean pasquini\\documents\\github\\chatbot\\traffic_sign_identifier\\mlsignidentifier.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{D9B4E9D6-7721-4CD3-A832-DDBA5A32DF9A}|traffic_sign_identifier.csproj|solutionrelative:mlsignidentifier.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9B4E9D6-7721-4CD3-A832-DDBA5A32DF9A}|traffic_sign_identifier.csproj|c:\\users\\jean pasquini\\documents\\github\\chatbot\\traffic_sign_identifier\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{D9B4E9D6-7721-4CD3-A832-DDBA5A32DF9A}|traffic_sign_identifier.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MLsignIdentifier.mbconfig",
+              "DocumentMoniker": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\traffic_sign_identifier\\MLsignIdentifier.mbconfig",
+              "RelativeDocumentMoniker": "MLsignIdentifier.mbconfig",
+              "ToolTip": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\traffic_sign_identifier\\MLsignIdentifier.mbconfig",
+              "RelativeToolTip": "MLsignIdentifier.mbconfig",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2024-10-07T11:24:12.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\Jean Pasquini\\Documents\\GitHub\\chatbot\\traffic_sign_identifier\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -26,8 +42,7 @@
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-02T17:47:28.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T17:47:28.996Z"
             }
           ]
         }
