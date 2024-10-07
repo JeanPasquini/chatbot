@@ -1,13 +1,13 @@
-# Reconhecimento com ASP.NET e Aprendizado de Máquina
-# 🚦 Detector de Placas de Trânsito 
+# Recognition with ASP.NET and Machine Learning
+# 🚦 Traffic Sign Detector 
 
-Este projeto incrível combina o poder da **ASP.NET** com a inteligência de **Machine Learning** para criar um sistema de detecção e reconhecimento de placas de trânsito. Ele não apenas demonstra a interseção entre desenvolvimento web moderno e IA, mas também destaca como podemos automatizar processos e aumentar a eficiência no reconhecimento de padrões visuais em ambientes urbanos.
+This amazing project combines the power of **ASP.NET** with the intelligence of **Machine Learning** to create a traffic sign detection and recognition system. It not only demonstrates the intersection between modern web development and AI but also highlights how we can automate processes and increase efficiency in recognizing visual patterns in urban environments.
 
-## 🌟 Funcionalidades Principais:
+## 🌟 Key Features:
 
-- **Detecção Automática de Placas de Trânsito:** Com o uso de técnicas avançadas de visão computacional, o sistema é capaz de identificar diferentes tipos de placas de trânsito em imagens.
-- **Reconhecimento de Placas em Tempo Real:** Utilize o poder de ML para não apenas detectar, mas também interpretar o significado de cada placa, oferecendo resultados rápidos e precisos.
-- **Interface Web Intuitiva:** Construída com **ASP.NET**, a interface do usuário é simples e funcional, permitindo o upload de imagens e a visualização dos resultados diretamente no navegador.
+- **Automatic Traffic Sign Detection:** Using advanced computer vision techniques, the system can identify different types of traffic signs in images.
+- **Real-Time Sign Recognition:** Leverage the power of ML not only to detect but also to interpret the meaning of each sign, providing quick and accurate results.
+- **Intuitive Web Interface:** Built with **ASP.NET**, the user interface is simple and functional, allowing for image uploads and direct viewing of results in the browser.
 
 ---
 
@@ -15,30 +15,30 @@ Este projeto incrível combina o poder da **ASP.NET** com a inteligência de **M
 
 ![visualIdentificador](https://github.com/user-attachments/assets/c18b6dc3-dbd8-4480-b36f-8d100ba76e11)
 
-**Imagem Demonstrativa**
+**Demonstrative Image**
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas:
+## 🛠️ Technologies Used:
 
-- **ASP.NET Core:** A base robusta para desenvolvimento web, oferecendo performance e segurança para entregar uma aplicação eficiente.
-- **Machine Learning .NET (ML.NET):** O coração do sistema de reconhecimento de placas, com modelos treinados para detecção de padrões visuais.
-- **Bootstrap:** Para uma interface visual responsiva e agradável.
+- **ASP.NET Core:** A robust foundation for web development, offering performance and security to deliver an efficient application.
+- **Machine Learning .NET (ML.NET):** The heart of the sign recognition system, with trained models for detecting visual patterns.
+- **Bootstrap:** For a responsive and visually appealing user interface.
 
-## 🚀 Como Funciona:
+## 🚀 How It Works:
 
-1. **Upload da Imagem:** O usuário faz o upload de uma imagem contendo uma ou mais placas de trânsito.
-2. **Processamento da Imagem:** O sistema usa modelos de Machine Learning para detectar e classificar as placas na imagem.
-3. **Exibição dos Resultados:** A interface web exibe os resultados, com as placas identificadas e seus respectivos significados.
+1. **Image Upload:** The user uploads an image containing one or more traffic signs.
+2. **Image Processing:** The system uses Machine Learning models to detect and classify the signs in the image.
+3. **Displaying Results:** The web interface displays the results, with identified signs and their respective meanings.
 
-## 📈 Objetivo do Projeto:
+## 📈 Project Objective:
 
-Este projeto foi desenvolvido com o intuito de mostrar como é possível integrar tecnologias de ponta como **Machine Learning** e **ASP.NET** para resolver problemas do mundo real. Seja para aplicações em sistemas de trânsito, segurança ou automação, essa solução oferece uma visão do futuro da inteligência artificial na análise de imagens.
+This project was developed to demonstrate how it is possible to integrate cutting-edge technologies like **Machine Learning** and **ASP.NET** to solve real-world problems. Whether for applications in traffic systems, security, or automation, this solution offers a glimpse into the future of artificial intelligence in image analysis.
 
-Além disso serviu de material de estudo para aprender na pratica o uso da Machine Learning e a biblioteca ML.NET.
+Additionally, it served as study material to learn practically about using Machine Learning and the ML.NET library.
 
-## 🚨 Futuros Updates:
+## 🚨 Future Updates:
 
-- **Treinamento e Ajustes Fáceis:** Possibilidades de treinar e ajustar o modelo com novos dados para aumentar a acurácia e ampliar o número de placas reconhecidas. (Ideia em processo...)
+- **Easy Training and Adjustments:** Possibilities to train and adjust the model with new data to increase accuracy and expand the number of recognized signs. (Idea in progress...)
